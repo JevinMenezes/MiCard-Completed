@@ -1,4 +1,4 @@
-name: mi_card
+name: business_card
 description: A new Flutter application.
 
 version: 1.0.0+1
@@ -21,7 +21,7 @@ flutter:
   uses-material-design: true
 
   assets:
-    - images/angela.jpg
+    - images/
 
   fonts:
   - family: Pacifico

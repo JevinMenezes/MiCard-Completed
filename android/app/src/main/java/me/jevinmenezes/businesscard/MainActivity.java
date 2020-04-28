@@ -1,4 +1,4 @@
-package co.appbrewery.micard;
+package me.jevinmenezes.businesscard;
 
 import android.os.Bundle;
 import io.flutter.app.FlutterActivity;
